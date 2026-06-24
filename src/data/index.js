@@ -12,7 +12,7 @@ export const data = {
   stats: [
     { label: 'LeetCode solved', value: '295+' },
     { label: 'Contest rating', value: '1404' },
-    { label: 'Top applicants', value: '1.2%' },
+    // { label: 'Top applicants', value: '1.2%' },
     { label: 'Projects shipped', value: '3+' },
   ],
   about: `Backend-focused engineer and B.Tech student at Delhi Technological University. I build REST APIs, AI-powered platforms, and full-stack products — from database schema to deployment. Selected for the AlgoUniversity Accelerator backed by Y Combinator (top 1.2% of 100K+ applicants).`,
