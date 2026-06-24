@@ -7,7 +7,7 @@ export const data = {
     github: 'https://github.com/TanishxDev',
     linkedin: 'https://linkedin.com/in/tanish29',
     leetcode: 'https://leetcode.com/u/tanishxdev/',
-    portfolio: 'https://tanishxdev-site.vercel.app/',
+    portfolio: 'https://thisistanishcodelab.vercel.app/',
   },
   stats: [
     { label: 'LeetCode solved', value: '295+' },
