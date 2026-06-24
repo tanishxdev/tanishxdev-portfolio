@@ -7,7 +7,7 @@ const links = [
   { icon: Github, label: 'GitHub', value: 'TanishxDev', href: data.links.github },
   { icon: Linkedin, label: 'LinkedIn', value: 'tanish29', href: data.links.linkedin },
   { icon: ExternalLink, label: 'LeetCode', value: 'tanishxdev', href: data.links.leetcode },
-  { icon: ExternalLink, label: 'Portfolio', value: 'tanishxdev-site.vercel.app', href: data.links.portfolio },
+  { icon: ExternalLink, label: 'Portfolio', value: 'thisistanishcodelab.vercel.app', href: data.links.portfolio },
 ]
 
 export default function Contact() {
