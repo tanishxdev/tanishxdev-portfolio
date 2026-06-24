@@ -17,7 +17,7 @@ export const data = {
   ],
   about: `Backend-focused engineer and B.Tech student at Delhi Technological University. I build REST APIs, AI-powered platforms, and full-stack products — from database schema to deployment. Selected for the AlgoUniversity Accelerator backed by Y Combinator (top 1.2% of 100K+ applicants).`,
   education: {
-    degree: 'B.Tech, Mechanical Engineering',
+    degree: 'B.Tech, ',
     school: 'Delhi Technological University (DTU)',
     location: 'New Delhi, India',
     period: 'Aug 2023 – Jun 2027',
